@@ -1,0 +1,2 @@
+script to execute files in 01_Python_Basics
+ 1. python data_types_and_variables.py
